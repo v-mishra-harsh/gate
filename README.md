@@ -1,1 +1,2 @@
-##Here we are!
+# Here we are!
+Refer these resources for faster prep! 🚀
